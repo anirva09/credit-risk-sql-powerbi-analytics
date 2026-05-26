@@ -111,9 +111,9 @@ Credit-Risk-Analytics/
 
 # 🖼️ Dashboard Preview
 
-(Add dashboard screenshots here)
+<img width="1204" height="697" alt="Credit_Risk_Analytics_Dashboard" src="https://github.com/user-attachments/assets/e0351bff-4e64-4929-ac72-27c2e178591f" />
+<img width="1396" height="805" alt="Credit_Risk_Analytics_Dashboard(2)" src="https://github.com/user-attachments/assets/2fc6ca00-8bf3-425c-b092-03b3779b8255" />
 
----
 
 # 🚀 Future Improvements
 
