@@ -113,6 +113,8 @@ Credit-Risk-Analytics/
 
 <img width="1204" height="697" alt="Credit_Risk_Analytics_Dashboard" src="https://github.com/user-attachments/assets/e0351bff-4e64-4929-ac72-27c2e178591f" />
 <img width="1396" height="805" alt="Credit_Risk_Analytics_Dashboard(2)" src="https://github.com/user-attachments/assets/2fc6ca00-8bf3-425c-b092-03b3779b8255" />
+<img width="1437" height="830" alt="Credit-Risk-Analytics-Dashboard(3)" src="https://github.com/user-attachments/assets/a0b05746-7438-41f2-961f-91267dfa94da" />
+<img width="1477" height="847" alt="Credit-Risk-Analytics-Dashboard(4)" src="https://github.com/user-attachments/assets/3a083fe7-435f-42fe-8e63-f58b2896f53c" />
 
 
 # 🚀 Future Improvements
