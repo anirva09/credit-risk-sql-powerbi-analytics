@@ -105,6 +105,7 @@ This page analyzes borrower demographics and financial profiles.
 ### Executive Overview
 
 <img width="1433" height="827" alt="risk1" src="https://github.com/user-attachments/assets/8c5532f5-87b7-44c3-b4d6-ae34307afc2c" />
+<img width="1446" height="834" alt="risk1 2" src="https://github.com/user-attachments/assets/f785a24b-1a59-4551-8c45-2b781f96113a" />
 
 ### Risk Analytics & Default Behaviour
 
