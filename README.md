@@ -109,7 +109,7 @@ This page analyzes borrower demographics and financial profiles.
 
 ### Risk Analytics & Default Behaviour
 
-<img width="1425" height="823" alt="risk2-1" src="https://github.com/user-attachments/assets/5b91e219-1d23-4fb8-acef-89e72d3905a8" />
+<img width="1410" height="810" alt="risk2" src="https://github.com/user-attachments/assets/ce6ae06c-0369-4b31-9054-14c93b69c75b" />
 
 ### Customer Analytics
 
