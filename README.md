@@ -231,8 +231,6 @@ CALCULATE(
 ---
 
 
----
-
 ## ✅ Conclusion
 
 This project demonstrates an end-to-end credit risk analytics workflow using **PostgreSQL, SQL, Power BI, and DAX**. The dashboard provides actionable insights into portfolio performance, borrower risk behaviour, default trends, and exposure management, helping financial institutions make more informed lending decisions.
