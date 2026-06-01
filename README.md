@@ -1,127 +1,300 @@
-# 💳 Credit Risk Analytics Dashboard
-
-## 📌 Overview
-
-This project is a **Credit Risk Analytics Dashboard** built using **PostgreSQL** and **Power BI**. The dashboard provides insights into loan portfolio performance, borrower risk behavior, default trends, and financial exposure through interactive business intelligence visualizations.
-
-The project demonstrates:
-
-* 📊 Dashboard Design
-* 🗄️ SQL Data Modeling
-* 📈 KPI Analysis
-* ⚡ DAX Measures
-* 🧠 Risk Analytics
-* 🏦 Banking & Financial Insights
-
----
-
-# 🛠️ Tech Stack
-
-* 🐘 PostgreSQL
-* 📊 Power BI
-* 🧮 SQL
-* ⚡ DAX
-* 🧩 Data Modeling
-
----
-
-# 🗂️ Data Model
-
-The project follows a **Star Schema** approach with:
-
-### 📌 Fact Table
-
-* `loans`
-
-### 📌 Dimension Tables
-
-* `persons`
-* `loan_grades`
-* `loan_intents`
-* `home_ownership`
-* `credit_history`
-
----
-
-# 📈 Key KPIs
-
-* 💰 Total Exposure
-* 📄 Total Loans
-* 📉 Default Rate
-* ⚠️ Total Defaults
-* 💵 Average Loan Amount
-* 📊 Average Interest Rate
-* 🚨 Exposure at Risk
-
----
-
-# 📊 Dashboard Features
-
-## 🏦 Executive Overview
-
-* Loan portfolio summary
-* Loan grade risk analysis
-* Portfolio distribution analysis
-* Exposure at risk by loan purpose
-* Interactive slicers & filters
-
----
-
-## ⚠️ Risk Analytics
-
-* Loan default behavior analysis
-* Loan intent risk analysis
-* Home ownership risk analysis
-* Employment length risk analysis
-* Credit history risk analysis
-
----
-
-## 👥 Customer Analytics
-
-* Income vs Loan analysis
-* Borrower segmentation
-* Risk distribution analysis
-* Loan-to-income analysis
-
----
-
-# 🔍 Key Insights
-
-* 📉 Lower loan grades showed significantly higher default rates.
-* 💰 Certain loan purposes contributed heavily to risky exposure.
-* 🏠 Home ownership status influenced borrower default behavior.
-* 📊 Portfolio exposure was concentrated across specific loan categories.
-
----
-
-# 📂 Project Structure
-
-```bash id="v9tt26"
-Credit-Risk-Analytics/
-│
-├── 📁 dashboard/
-├── 📁 sql/
-├── 📁 screenshots/
-├── 📁 data/
-└── README.md
-```
-
----
-
-# 🖼️ Dashboard Preview
-
-<img width="1204" height="697" alt="Credit_Risk_Analytics_Dashboard" src="https://github.com/user-attachments/assets/e0351bff-4e64-4929-ac72-27c2e178591f" />
-<img width="1396" height="805" alt="Credit_Risk_Analytics_Dashboard(2)" src="https://github.com/user-attachments/assets/2fc6ca00-8bf3-425c-b092-03b3779b8255" />
-<img width="1437" height="830" alt="Credit-Risk-Analytics-Dashboard(3)" src="https://github.com/user-attachments/assets/a0b05746-7438-41f2-961f-91267dfa94da" />
-<img width="1477" height="847" alt="Credit-Risk-Analytics-Dashboard(4)" src="https://github.com/user-attachments/assets/3a083fe7-435f-42fe-8e63-f58b2896f53c" />
+💳 Credit Risk Analytics Dashboard
+PostgreSQL + SQL + Power BI
+📌 Overview
+This project analyzes loan portfolio data to identify borrower risk patterns, default behaviour, portfolio exposure, and credit risk factors.
+The analysis was performed using PostgreSQL for data modeling and querying, while Power BI was used to create an interactive dashboard for risk monitoring and decision-making.
+The dashboard helps answer questions such as:
 
 
-# 🚀 Future Improvements
+Which loan grades carry the highest risk?
 
-* 🔮 Predictive Risk Scoring
-* 📅 Time-Series Analysis
-* 📌 Drillthrough Reports
-* ⚡ Advanced DAX Calculations
-* 🤖 Machine Learning Integration
 
+Which borrower groups are most likely to default?
+
+
+How does home ownership impact risk?
+
+
+Which loan purposes contribute the most exposure?
+
+
+What borrower characteristics influence default rates?
+
+
+
+🧰 Tools Used
+
+
+PostgreSQL
+
+
+SQL
+
+
+Power BI
+
+
+DAX
+
+
+Data Modeling
+
+
+
+🗂️ Data Model
+The project follows a Star Schema design.
+📌 Fact Table
+
+
+loans
+
+
+📌 Dimension Tables
+
+
+persons
+
+
+loan_grades
+
+
+loan_intents
+
+
+home_ownership
+
+
+credit_history
+
+
+
+📊 Power BI Dashboard Pages
+1. Executive Overview
+Provides a high-level summary of the loan portfolio.
+Key metrics and visuals:
+
+
+Total Loans
+
+
+Total Exposure
+
+
+Average Loan Amount
+
+
+Average Interest Rate
+
+
+Total Defaults
+
+
+Default Rate
+
+
+Loan Grade Risk Analysis
+
+
+Portfolio Distribution by Loan Purpose
+
+
+Exposure at Risk by Loan Purpose
+
+
+
+2. Risk Analytics & Default Behaviour
+Focuses on identifying major drivers of borrower defaults.
+Key metrics and visuals:
+
+
+Exposure at Risk
+
+
+Default Rate
+
+
+Credit History Risk Analysis
+
+
+Employment Length Risk Analysis
+
+
+Default Rate by Loan Purpose
+
+
+Borrower Risk Segmentation
+
+
+Home Ownership Risk Analysis
+
+
+
+3. Customer Analytics
+Analyzes borrower demographics and financial profiles.
+Key metrics and visuals:
+
+
+Average Income
+
+
+Average Employment Length
+
+
+Average Credit History Length
+
+
+Average Loan-to-Income Ratio
+
+
+Age Group Analysis
+
+
+Income Distribution
+
+
+Income vs Default Analysis
+
+
+Loan-to-Income Risk Analysis
+
+
+Home Ownership Distribution
+
+
+
+🖼️ Dashboard Screenshots
+Executive Overview
+<img width="1433" height="827" alt="risk1" src="https://github.com/user-attachments/assets/8c5532f5-87b7-44c3-b4d6-ae34307afc2c" />
+
+Risk Analytics & Default Behaviour
+<img width="1425" height="823" alt="risk2 1" src="https://github.com/user-attachments/assets/5b91e219-1d23-4fb8-acef-89e72d3905a8" />
+
+Customer Analytics
+<img width="1413" height="810" alt="risk3" src="https://github.com/user-attachments/assets/779a1ce3-1654-4cda-a422-ca719d827f6e" />
+
+🔍 Key Business Questions Answered
+⚠️ Risk & Defaults
+
+
+Which loan grades have the highest default rates?
+
+
+Which loan purposes contribute most to risky exposure?
+
+
+Which borrower segments are classified as high risk?
+
+
+How does employment length affect default probability?
+
+
+🏦 Portfolio Analysis
+
+
+What is the total portfolio exposure?
+
+
+What percentage of loans have defaulted?
+
+
+Which loan purposes dominate the portfolio?
+
+
+How is exposure distributed across borrower groups?
+
+
+👥 Customer Analysis
+
+
+Which age groups take the most loans?
+
+
+How does income relate to default behaviour?
+
+
+Which income groups have higher loan-to-income ratios?
+
+
+How does home ownership vary across borrowers?
+
+
+
+🧠 Key Insights
+
+
+Lower loan grades (D–G) show substantially higher default risk than higher grades.
+
+
+Debt Consolidation and Medical loans contribute a large portion of portfolio exposure.
+
+
+Borrowers with shorter employment histories exhibit higher default rates.
+
+
+Renters show significantly higher default rates compared to homeowners.
+
+
+Lower-income borrowers maintain higher loan-to-income ratios, increasing portfolio risk.
+
+
+The loan portfolio is concentrated in a few key loan purposes, creating exposure concentration risk.
+
+
+
+📌 Important DAX Measures
+Total Loans =COUNT(loans[loan_id])
+Total Exposure =SUM(loans[loan_amnt])
+Default Rate =DIVIDE(    [Total Defaults],    [Total Loans])
+Total Defaults =CALCULATE(    COUNT(loans[loan_id]),    loans[loan_status] = "Default")
+Average Interest Rate =AVERAGE(loans[loan_int_rate])
+Exposure At Risk =CALCULATE(    SUM(loans[loan_amnt]),    loans[loan_status] = "Default")
+
+🧠 Key Learnings
+
+
+Designed a star schema model for financial analytics.
+
+
+Built KPI-driven dashboards for credit risk monitoring.
+
+
+Used SQL to prepare and structure analytical datasets.
+
+
+Created DAX measures for portfolio exposure, defaults, and risk segmentation.
+
+
+Applied business intelligence principles to analyze borrower behaviour.
+
+
+Developed multi-page dashboards focused on executive reporting and risk analysis.
+
+
+
+🚀 Future Improvements
+
+
+Predictive Default Risk Scoring
+
+
+Machine Learning-Based Credit Risk Models
+
+
+Probability of Default (PD) Analysis
+
+
+Loss Given Default (LGD) Metrics
+
+
+Time-Series Default Trend Analysis
+
+
+Drillthrough Risk Investigation Pages
+
+
+Power BI Service Deployment
+
+
+
+✅ Conclusion
+This project demonstrates an end-to-end credit risk analytics workflow using PostgreSQL, SQL, Power BI, and DAX. The dashboard provides actionable insights into portfolio performance, borrower risk behaviour, default trends, and exposure management, helping financial institutions make more informed lending decisions.
