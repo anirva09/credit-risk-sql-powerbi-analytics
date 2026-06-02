@@ -103,17 +103,16 @@ This page analyzes borrower demographics and financial profiles.
 ## 🖼️ Dashboard Screenshots
 
 ### Executive Overview
+<img width="1323" height="764" alt="risk1" src="https://github.com/user-attachments/assets/d78d0fe1-c704-42e3-816a-bfce2da0b42d" />
+<img width="1323" height="763" alt="RISK1 2" src="https://github.com/user-attachments/assets/b93fe724-dcb4-406d-9134-e6f0d924d80e" />
 
-<img width="1323" height="761" alt="risk1" src="https://github.com/user-attachments/assets/26a778de-c967-4f81-918c-b063ccc5a713" />
-<img width="1321" height="764" alt="risk2 0" src="https://github.com/user-attachments/assets/857c170d-18dd-46a2-b674-403180a71010" />
 
 ### Risk Analytics & Default Behaviour
+<img width="1320" height="765" alt="RISK2" src="https://github.com/user-attachments/assets/0a0511f2-39ef-4f5f-b506-463f91650a63" />
 
-<img width="1410" height="810" alt="risk2" src="https://github.com/user-attachments/assets/ce6ae06c-0369-4b31-9054-14c93b69c75b" />
 
 ### Customer Analytics
-
-<img width="1413" height="810" alt="risk3" src="https://github.com/user-attachments/assets/779a1ce3-1654-4cda-a422-ca719d827f6e" />
+<img width="1322" height="765" alt="RISK3" src="https://github.com/user-attachments/assets/fea57446-6904-4918-8ac0-f8c333d3b8c2" />
 
 ---
 
