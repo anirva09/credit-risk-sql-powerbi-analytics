@@ -2,7 +2,7 @@
 
 ## PostgreSQL + SQL + Power BI
 
-## 📌 Overview
+## 📌 Overview 
 
 This project analyzes loan portfolio data to identify borrower risk patterns, default behaviour, portfolio exposure, and credit risk factors.
 
