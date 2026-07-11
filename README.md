@@ -74,15 +74,15 @@ This model supports cleaner analysis across borrower profile, loan grade, loan p
 
 ### Executive Overview
 
-![Executive Overview](screenshots/page_01_executive_overview.png)
+<img width="1323" height="764" alt="risk1" src="https://github.com/user-attachments/assets/d78d0fe1-c704-42e3-816a-bfce2da0b42d" />
 
 ### Risk Analytics & Default Behaviour
 
-![Risk Analytics & Default Behaviour](screenshots/page_02_risk_analytics_default_behaviour.png)
+<img width="1320" height="765" alt="RISK2" src="https://github.com/user-attachments/assets/0a0511f2-39ef-4f5f-b506-463f91650a63" />
 
 ### Customer Analytics
 
-![Customer Analytics](screenshots/page_03_customer_analytics.png)
+<img width="1322" height="765" alt="RISK3" src="https://github.com/user-attachments/assets/fea57446-6904-4918-8ac0-f8c333d3b8c2" />
 
 ---
 
